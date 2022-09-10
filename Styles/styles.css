@@ -31,6 +31,7 @@
     margin: 20px;
     min-height: 100px;
     min-width: 100px;
+    max-height: 150px;
 }
 
 
@@ -40,7 +41,8 @@
 
 
 .card-1 {
-    
+    justify-content: flex-start;
+    align-items: flex-end;
 }
 
 .flex-item-1 {
@@ -60,6 +62,7 @@
 
 
 .card-2 {
+    justify-content: center;
     
 }
 
@@ -80,7 +83,8 @@
 
 
 .card-3 {
-    
+    justify-content: end;
+    align-items: center;
 }
 
 .flex-item-7 {
@@ -100,19 +104,19 @@
 
 
 .card-4 {
-    
+    justify-content: space-between;
 }
 
 .flex-item-10 {
-    
+    align-self: flex-start;
 }
 
 .flex-item-11 {
-    
+    align-self: flex-start;
 }
 
 .flex-item-12 {
-    
+    align-self: flex-end;
 }
 
 
@@ -120,7 +124,7 @@
 
 
 .card-5 {
-    
+    justify-content: space-evenly;
 }
 
 .flex-item-13 {
@@ -128,7 +132,7 @@
 }
 
 .flex-item-14 {
-    
+    align-self: center;
 }
 
 .flex-item-15 {
@@ -140,15 +144,16 @@
 
 
 .card-6 {
-    
+    justify-content: center;
+    align-items: center;
 }
 
 .flex-item-16 {
-    
+
 }
 
 .flex-item-17 {
-    
+    flex-grow: 2;
 }
 
 .flex-item-18 {
