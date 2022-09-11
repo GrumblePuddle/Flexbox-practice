@@ -14,7 +14,7 @@ section {
     
 }
 
-.card {
+.flex__container {
     background-color: #FAA307;;
     border-radius: 15px;
     min-width: 400px;
@@ -25,7 +25,7 @@ section {
     flex-grow: 1;
 }
 
-.flex-item {
+.flex__item {
     background-color: #9D0208;
     border-radius: 4px;
     margin: 20px;
@@ -40,7 +40,7 @@ section {
 
 
 
-.card-1 {
+.flex__container__1 {
     justify-content: flex-start;
     align-items: flex-end;
 }
@@ -50,7 +50,7 @@ section {
 
 
 
-.card-2 {
+.flex__container__2 {
     justify-content: center;
     
 }
@@ -61,7 +61,7 @@ section {
 
 
 
-.card-3 {
+.flex__container__3 {
     justify-content: end;
     align-items: center;
 }
@@ -72,19 +72,19 @@ section {
 
 
 
-.card-4 {
+.flex__container__4 {
     justify-content: space-between;
 }
 
-.flex-item-10 {
+.flex__item__10 {
     align-self: flex-start;
 }
 
-.flex-item-11 {
+.flex__item__11 {
     align-self: flex-start;
 }
 
-.flex-item-12 {
+.flex__item__12 {
     align-self: flex-end;
 }
 
@@ -92,13 +92,13 @@ section {
 
 
 
-.card-5 {
+.flex__container__5 {
     justify-content: space-evenly;
 }
 
 
 
-.flex-item-14 {
+.flex__item__14 {
     align-self: center;
 }
 
@@ -108,14 +108,14 @@ section {
 
 
 
-.card-6 {
+.flex__container__6 {
     justify-content: center;
     align-items: center;
 }
 
 
 
-.flex-item-17 {
+.flex__item__17 {
     flex-grow: 2;
 }
 
