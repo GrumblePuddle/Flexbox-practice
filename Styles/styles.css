@@ -1,4 +1,4 @@
-.first {
+section {
     width: 100vw;
     height: 100vh;
     background-color: #370617;
@@ -45,17 +45,6 @@
     align-items: flex-end;
 }
 
-.flex-item-1 {
-    
-}
-
-.flex-item-2 {
-    
-}
-
-.flex-item-3 {
-    
-}
 
 
 
@@ -66,17 +55,7 @@
     
 }
 
-.flex-item-4 {
-    
-}
 
-.flex-item-5 {
-    
-}
-
-.flex-item-6 {
-    
-}
 
 
 
@@ -87,17 +66,7 @@
     align-items: center;
 }
 
-.flex-item-7 {
-    
-}
 
-.flex-item-8 {
-    
-}
-
-.flex-item-9 {
-    
-}
 
 
 
@@ -127,17 +96,13 @@
     justify-content: space-evenly;
 }
 
-.flex-item-13 {
-    
-}
+
 
 .flex-item-14 {
     align-self: center;
 }
 
-.flex-item-15 {
-    
-}
+
 
 
 
@@ -148,14 +113,9 @@
     align-items: center;
 }
 
-.flex-item-16 {
 
-}
 
 .flex-item-17 {
     flex-grow: 2;
 }
 
-.flex-item-18 {
-    
-}
